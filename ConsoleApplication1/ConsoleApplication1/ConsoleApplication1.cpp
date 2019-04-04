@@ -4,7 +4,8 @@
 using namespace std;
 int main()
 {
-	cout << "GitVisual Tests" << endl;
+	cout << "GitVisual" << endl;
+	cout << "BranchGitVisual" << endl;
     return 0;
 }
 
