@@ -6,6 +6,7 @@ int main()
 {
 	cout << "GitVisual" << endl;
 	cout << "BranchGitVisual" << endl;
+	cout << "master" << endl;
     return 0;
 }
 
