@@ -5,9 +5,8 @@ using namespace std;
 int main()
 {
 	cout << "GitVisual" << endl;
-	cout << "BranchGitVisual" << endl;
-	cout << "Branch" << endl;
-	cout << "master" << endl;
+	cout << "Branch_Test" << endl;
+
     return 0;
 }
 
